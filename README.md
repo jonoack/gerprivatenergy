@@ -11,6 +11,6 @@ In der aktuellen Lage wird immer wieder ins Feld geführt, dass jeder durch eige
 
 ### Tanken (Treibstoff)
 Die Zusammensetzung des Preises kann man sehr gut beim [ADAC](https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/tipps-zum-tanken/7-fragen-zum-benzinpreis/) nachlesen.
-Auf Grund dieser Angaben nehme ich mal für meine Rechnung an das **50** des aktuellen Preises der direkte Preis ist und der andere Anteil Abgaben und Steuern sind.
+Auf Grund dieser Angaben nehme ich mal für meine Rechnung an das **50%** des aktuellen Preises der direkte Preis ist und der andere Anteil Abgaben und Steuern sind.
 
 ### Heizen (Öl, Gas)
